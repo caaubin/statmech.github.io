@@ -21,9 +21,8 @@
 title: Jupyter Files for Statistical Thermodynamics: An Information Theory Approach
 email: caubin@fordham.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Lattice Diversity and Inclusion Committee is a standing committee
-  charged with improving the intellectual and social climate at
-  the Lattice conference and more broadly within the field of Lattice QCD.
+  This site will host the Jupyter notebooks to go with the
+  textbook.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
