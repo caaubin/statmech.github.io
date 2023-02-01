@@ -2,7 +2,7 @@
 #email: caubin@fordham.edu
 #baseurl: "" # the subpath of your site, e.g. /blog
 #timezone: America/New_York
-title: Jupyter Files for Statistical Thermodynamics: An Information Theory Approach
+title: Jupyter Files for Statistical Thermodynamics text
 description: This site will host the Jupyter notebooks to go with the textbook
 show_downloads: true
 google_analytics:
