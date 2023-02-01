@@ -1,7 +1,6 @@
 ---
 layout: Jupyter files
 title: Jupyter files
-permalink: /jupyter/
 ---
 
 Here are the various Jupyter notebooks you can download (and perhaps upload 
