@@ -31,9 +31,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: America/New_York
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-modernist
+# plugins:
+#   - jekyll-feed
 
 header_pages:
    - probability.markdown
