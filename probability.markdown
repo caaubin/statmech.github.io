@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probability Jupyter Files
-permalink: /surveys/
+permalink: /probability
 ---
 
 Here are Jupyter notebooks for the probability section.
